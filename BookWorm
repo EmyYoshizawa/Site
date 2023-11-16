@@ -1,0 +1,270 @@
+<html>
+<head>
+<meta charset="utf8">
+<meta name="viewport" content="width=device-width">
+<title>E-Books</title>
+<link href="style.CSS" rel="text/css">
+
+</head>
+
+<header>
+<a href="">
+<div class="logo">
+<img src="" width="200" height="55">
+</div>
+</a>
+<div id="divBusca">
+<input type="text" id="txtBusca" placeholder="Buscar..."/>
+<img src="CaixasBusca2.jpg" id="btnBusca" alt="Buscar"/>
+</div>
+</header>
+<center>
+<div id="mangas">
+<b>Mangas</b>
+</div>
+</center>
+<body>
+<div class="container">
+<div id="img">
+<a href="">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNaVIHYDnKxJaxxEnoi-X8MAQWFuFaqT5w4ekSESB5RI-TENdF4bUA6xbPdIKTzFK4Hx8&usqp=CAU" width="200" height="300" alt="Kimetsu no Yaiba">
+</a>
+<l1>
+<div id="text">
+Kimetsu no Yaiba
+</div>
+</l1>
+</div>
+</div>
+<div class="container">
+<div id="img">
+<a href="">
+<img src="https://cdnx.jumpseller.com/shazam-online/image/15944201/thepromisedneverland01.jpg?1640792956" width="200" height="300" alt="Yakusoku no Neverland">
+</a>
+<l1>
+<div id="text">
+Yakusoku no Neverland
+</div>
+</l1>
+</div>
+</div>
+<div class="container">
+<div id="img">
+<a href="">
+<img src="https://m.media-amazon.com/images/I/51PxvL11XkL.jpg" width="200" height="300" alt="Death Note">
+</a>
+<l1>
+<div id="text">
+Death Note
+</div>
+</l1>
+</div>
+</div>
+<div class="container">
+<div id="img">
+<a href="">
+<img src="https://m.media-amazon.com/images/I/71QS2yNxhoL._AC_UF1000,1000_QL80_.jpg" width="200" height="300" alt="Chainsaw Man">
+</a>
+<l1>
+<div id="text">
+Chainsaw Man
+</div>
+</l1>
+</div>
+</div>
+<div class="container">
+<div id="img">
+<a href="">
+<img src="https://upload.wikimedia.org/wikipedia/pt/e/e7/SnK_Volume1.png" width="200" height="300" alt="Shingeki no Kyojin">
+</a>
+<l1>
+<div id="text">
+Shingeki no Kyojin
+</div>
+</l1>
+</div>
+</div>
+<div class="container">
+<div id="img">
+<a href="">
+<img src="" width="200" height="300" alt="Boku no Hero">
+</a>
+<l1>
+<div id="text">
+Boku no Hero Academia
+</div>
+</l1>
+</div>
+</div>
+<div class="container">
+<div id="img">
+<a href="">
+<img src="https://teoriageek.com.br/wp-content/uploads/2020/07/Jujutsu-Kaisen-tem-sua-capa-e-novas-informa%C3%A7%C3%B5es-revelada-pela-Panini.jpg" width="200" height="300" alt="Jujutsu Kaisen">
+</a>
+<l1>
+<div id="text">
+Jujutsu Kaisen
+</div>
+</l1>
+</div>
+</div>
+<div class="container">
+<div id="img">
+<a href="">
+<img src="https://m.media-amazon.com/images/I/71zRerC8zeL._AC_UF894,1000_QL80_.jpg" width="200" height="300" alt="Nanatsu no Taizai">
+</a>
+<l1>
+<div id="text">
+Nanatsu no Taizai
+</div>
+</l1>
+</div>
+</div>
+<div class="container">
+<div id="img">
+<a href="">
+<img src="https://upload.wikimedia.org/wikipedia/pt/8/82/Ao_no_Exorcist.jpg" width="200" height="300" alt="Ao no Exorcist">
+</a>
+<l1>
+<div id="text">
+Ao no Exorcist
+</div>
+</l1>
+</div>
+</div>
+<div class="container">
+<div id="img">
+<a href="">
+<img src="https://m.media-amazon.com/images/I/81JNakmJRwL._AC_UF1000,1000_QL80_.jpg" width="200" height="300" alt="Servamp">
+</a>
+<l1>
+<div id="text">
+Servamp
+</div>
+</l1>
+</div>
+</div>
+<div class="container">
+<div id="img">
+<a href="">
+<img src="https://m.media-amazon.com/images/I/91SLpHwjp8L._AC_UF894,1000_QL80_.jpg" width="200" height="300" alt="Dr. Stone">
+</a>
+<l1>
+<div id="text">
+Dr. Stone
+</div>
+</l1>
+</div>
+</div>
+<div class="container">
+<div id="img">
+<a href="">
+<img src="https://m.media-amazon.com/images/I/51ZLlQ1wq2L.jpg" width="200" height="300" alt="Bleach">
+</a>
+<l1>
+<div id="text">
+Bleach
+</div>
+</l1>
+</div>
+</div>
+<div class="container">
+<div id="img">
+<a href="">
+<img src="https://m.media-amazon.com/images/I/91xUwI2UEVL._AC_UF1000,1000_QL80_.jpg" width="200" height="300" alt="Naruto">
+</a>
+<l1>
+<div id="text">
+Naruto
+</div>
+</l1>
+</div>
+</div>
+<div class="container">
+<div id="img">
+<a href="">
+<img src="https://m.media-amazon.com/images/I/91nhuMimxjL._AC_UF1000,1000_QL80_.jpg" width="200" height="300" alt="Vinland Saga">
+</a>
+<l1>
+<div id="text">
+Vinland Saga
+</div>
+</l1>
+</div>
+</div>
+<div class="container">
+<div id="img">
+<a href="">
+<img src="https://m.media-amazon.com/images/I/51W1ij6OH3L.jpg" width="200" height="300" alt="One Piece">
+</a>
+<l1>
+<div id="text">
+One Piece
+</div>
+</l1>
+</div>
+</div>
+<div class="container">
+<div id="img">
+<a href="">
+<img src="https://m.media-amazon.com/images/I/61GWN9NPJvL._AC_UF1000,1000_QL80_.jpg" width="200" height="300" alt="Fullmetal Alchemist">
+</a>
+<l1>
+<div id="text">
+Fullmetal Alchemist
+</div>
+</l1>
+</div>
+</div>
+<div class="container">
+<div id="img">
+<a href="">
+<img src="https://m.media-amazon.com/images/I/81usWQj0kyL._AC_UF894,1000_QL80_.jpg" width="200" height="300" alt="Tokyo Ghoul">
+</a>
+<l1>
+<div id="text">
+Tokyo Ghoul
+</div>
+</l1>
+</div>
+</div>
+<div class="container">
+<div id="img">
+<a href="">
+<img src="https://m.media-amazon.com/images/I/61vk4gahzBL._AC_UF894,1000_QL80_.jpg" width="200" height="300" alt="Ansatsu Kyoushitsu">
+</a>
+<l1>
+<div id="text">
+Ansatsu Kyoushitsu
+</div>
+</l1>
+</div>
+</div>
+<div class="container">
+<div id="img">
+<a href="">
+<img src="https://imusic.b-cdn.net/images/item/original/403/9781975322403.jpg?takemachi-2021-spy-classroom-vol-1-light-novel-paperback-book&class=scaled&v=1625822434" width="200" height="300" alt="Spy Kyoushitsu">
+</a>
+<l1>
+<div id="text">
+Spy Kyoushitsu
+</div>
+</l1>
+</div>
+</div>
+<div class="container">
+<div id="img">
+<a href="">
+<img src="https://upload.wikimedia.org/wikipedia/pt/5/52/Y%C5%8Dkoso_Jitsuryoku_Shij%C5%8D_Shugi_no_Ky%C5%8Dshitsu_e%2C_Volume_1.jpg" width="200" height="300" alt="Yōkoso Jitsuryoku Shijō Shugi no Kyōshitsu e">
+</a>
+<l1>
+<div id="text">
+Yōkoso Jitsuryoku Shijō Shugi no Kyōshitsu e
+</div>
+</l1>
+</div>
+</div>
+</body>
+</html>
+
+
